@@ -4,15 +4,15 @@
       "title": "DIDS: Domain Impact-aware Data Sampling for Large Language Model Training",
       "authors": [
         "Weijie Shi",
-        "Jiayi Zhang",
-        "Yuxuan Wu",
-        "Junhua Fang",
-        "Siyuan Zhang",
-        "Yuxuan Zhao",
-        "Haochen Chen",
-        "Rui Zhang",
-        "Yifan Cui",
+        "Jipeng Zhang",
+        "Yaguang Wu",
+        "Jingzhi Fang",
+        "Ruiyuan Zhang",
         "Jiajie Xu",
+        "Jia Zhu",
+        "Hao Chen",
+        "Yao Zhao",
+        "Sirui Han",
         "Xiaofang Zhou"
       ],
       "venue": "EMNLP 2025 (CCF B)",
@@ -23,13 +23,13 @@
       "title": "Semantic-guided Diverse Decoding for Large Language Model",
       "authors": [
         "Weijie Shi",
-        "Yifan Cui",
-        "Yuxuan Wu",
-        "Junhua Fang",
-        "Siyuan Zhang",
-        "Muyun Li",
-        "Shangqing Han",
-        "Jichuan Zeng",
+        "Yue Cui",
+        "Yaguang Wu",
+        "Jingzhi Fang",
+        "Shibo Zhang",
+        "Mengze Li",
+        "Sirui Han",
+        "Jia Zhu",
         "Jiajie Xu",
         "Xiaofang Zhou"
       ],
@@ -41,15 +41,15 @@
       "title": "LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning",
       "authors": [
         "Weijie Shi",
-        "Haoqing Zhu",
-        "Juntao Ji",
-        "Muyun Li",
-        "Jiayi Zhang",
-        "Rui Zhang",
-        "Jichuan Zeng",
+        "Han Zhu",
+        "Jiaming Ji",
+        "Mengze Li",
+        "Jipeng Zhang",
+        "Ruiyuan Zhang",
+        "Jia Zhu",
         "Jiajie Xu",
-        "Shangqing Han",
-        "Yue Guo"
+        "Sirui Han",
+        "Yike Guo"
       ],
       "venue": "ACL 2025 (CCF A)",
       "selected": 1,
@@ -59,14 +59,14 @@
       "title": "Making RALM Robust to Irrelevant Contexts via Layer Knowledge Guided Attention",
       "authors": [
         "Weijie Shi",
-        "Haochen Chen",
-        "Jiayi Li",
-        "Yuxuan Zhao",
-        "Yue Zhang",
-        "Qingyang Chen",
-        "Jiayi Zhang",
-        "Rui Zhang",
-        "Jichuan Zeng",
+        "Hao Chen",
+        "Jiaming Li",
+        "Yao Zhao",
+        "Yazhong Zhang",
+        "Qijin Chen",
+        "Jipeng Zhang",
+        "Ruiyuan Zhang",
+        "Jia Zhu",
         "Jiajie Xu",
         "Xiaofang Zhou"
       ],
@@ -78,11 +78,11 @@
       "title": "Zero-Shot Cellular Trajectory Map Matching",
       "authors": [
         "Weijie Shi",
-        "Yifan Cui",
-        "Haochen Chen",
-        "Jiayi Li",
-        "Muyun Li",
-        "Jichuan Zeng",
+        "Yue Cui",
+        "Hao Chen",
+        "Jiaming Li",
+        "Mengze Li",
+        "Jia Zhu",
         "Jiajie Xu",
         "Xiaofang Zhou"
       ],
@@ -93,17 +93,17 @@
     {
       "title": "Consistent and Invariant Generalization Learning for Short-video Misinformation Detection",
       "authors": [
-        "Haixia Guo",
+        "Hanghui Guo",
         "Weijie Shi",
-        "Muyun Li",
-        "Jiayi Li",
-        "Haochen Chen",
-        "Yifan Cui",
+        "Mengze Li",
+        "Juncheng Li",
+        "Hao Chen",
+        "Yue Cui",
         "Jiajie Xu",
-        "Jichuan Zeng",
-        "Jinghua Shen",
-        "Zhiqiang Chen",
-        "Pingfu Chao"
+        "Jia Zhu",
+        "Jiawei Shen",
+        "Zhangze Chen",
+        "Sirui Han"
       ],
       "venue": "ACM MM 2025",
       "selected": 1,
@@ -112,12 +112,12 @@
     {
       "title": "Adaptation Method for Misinformation Identification",
       "authors": [
-        "Yihui Chen",
+        "Yangping Chen",
         "Weijie Shi",
-        "Muyun Li",
-        "Yifan Cui",
-        "Haochen Chen",
-        "Jichuan Zeng",
+        "Mengze Li",
+        "Yue Cui",
+        "Hao Chen",
+        "Jia Zhu",
         "Jiajie Xu"
       ],
       "venue": "AAAI 2025 (CCF A)",
@@ -141,15 +141,20 @@
     {
       "title": "Trinity-RFT: A General-purpose and Unified Framework for Reinforcement Fine-tuning of Large Language Models",
       "authors": [
-        "Xiang Pan",
-        "Yuhang Chen",
-        "Yichen Chen",
-        "Yuxuan Sun",
-        "Duanyu Chen",
-        "Wenqiang Zhang",
-        "Yuyang Xie",
-        "Yingqian Huang",
-        "et al."
+        "Xuchen Pan",
+        "Yanxi Chen",
+        "Yushuo Chen",
+        "Yuchang Sun",
+        "Daoyuan Chen",
+        "Wenhao Zhang",
+        "Yuexiang Xie",
+        "Yilun Huang",
+        "Yilei Zhang",
+        "Dawei Gao",
+        "Weijie Shi",
+        "Yaliang Li",
+        "Bolin Ding",
+        "Jingren Zhou"
       ],
       "venue": "Preprint 2025",
       "selected": 1,
@@ -158,11 +163,11 @@
     {
       "title": "DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation",
       "authors": [
-        "Haixia Guo",
-        "Jichuan Zeng",
-        "Shuai Di",
+        "Hanghui Guo",
+        "Jia Zhu",
+        "Shimin Di",
         "Weijie Shi",
-        "Zhiqiang Chen",
+        "Zhangze Chen",
         "Jiajie Xu"
       ],
       "venue": "ACL 2025 (CCF A)",
@@ -170,12 +175,12 @@
       "award": ""
     },
     {
-      "title": "Radio: Real-time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation",
+      "title": "RaDIO: Real-time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation",
       "authors": [
-        "Jichuan Zeng",
-        "Haixia Guo",
+        "Jia Zhu",
+        "Hanghui Guo",
         "Weijie Shi",
-        "Zhiqiang Chen",
+        "Zhangze Chen",
         "Pasquale De Meo"
       ],
       "venue": "AAAI 2025 (CCF A)",
@@ -185,11 +190,11 @@
     {
       "title": "Enhancing Tool Learning in Large Language Models with Hierarchical Error Checklists",
       "authors": [
-        "Yifan Cui",
-        "Liang Yao",
-        "Shengyi Tao",
+        "Yue Cui",
+        "Liuyi Yao",
+        "Shuchang Tao",
         "Weijie Shi",
-        "Yuyang Li",
+        "Yaliang Li",
         "Bolin Ding",
         "Xiaofang Zhou"
       ],
@@ -200,16 +205,17 @@
     {
       "title": "Benchmarking Multi-national Value Alignment for Large Language Models",
       "authors": [
-        "Chang Ju",
         "Weijie Shi",
-        "Chenxi Liu",
-        "Juntao Ji",
-        "Jiayi Zhang",
-        "Rui Zhang",
+        "Chengyi Ju",
+        "Chengzhong Liu",
+        "Jiaming Ji",
+        "Jipeng Zhang",
+        "Ruiyuan Zhang",
+        "Jia Zhu",
         "Jiajie Xu",
-        "Yue Yang",
-        "Shangqing Han",
-        "Yue Guo"
+        "Yaodong Yang",
+        "Sirui Han",
+        "Yike Guo"
       ],
       "venue": "ACL 2025 Findings (CCF A)",
       "selected": 1,
@@ -218,15 +224,15 @@
     {
       "title": "AgentMonitor: A Plug-and-Play Framework for Predictive and Secure Multi-Agent Systems",
       "authors": [
-        "CM Chan",
-        "J Yu",
-        "W Chen",
-        "C Jiang",
-        "X Liu",
-        "W Shi",
-        "Z Liu",
-        "W Xue",
-        "Y Guo"
+        "Chi-Min Chan",
+        "Jianxuan Yu",
+        "Weize Chen",
+        "Chunyang Jiang",
+        "Xinyu Liu",
+        "Weijie Shi",
+        "Zhiyuan Liu",
+        "Wei Xue",
+        "Yike Guo"
       ],
       "venue": "Preprint 2024",
       "selected": 1,
@@ -235,15 +241,16 @@
     {
       "title": "A Multi-Modal Dataset for Teacher Behavior Analysis in Offline Classrooms",
       "authors": [
-        "C Huang",
-        "J Zhu",
-        "Y Ji",
+        "Chenglei Huang",
+        "Jia Zhu",
+        "Yilong Ji",
         "Weijie Shi",
-        "M Yang",
-        "H Guo",
-        "J Ling",
-        "P De Meo",
-        "Z Li"
+        "Min Yang",
+        "Hanghui Guo",
+        "Jianxia Ling",
+        "Pasquale De Meo",
+        "Zilong Li",
+        "Zhangze Chen"
       ],
       "venue": "Scientific Data 2025",
       "selected": 1,
@@ -252,16 +259,18 @@
     {
       "title": "E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence, and Efficiency",
       "authors": [
-        "D Xu",
-        "Y Cui",
+        "Dongjie Xu",
+        "Yue Cui",
         "Weijie Shi",
-        "Q Ma",
-        "H Guo",
-        "J Li",
-        "Y Zhao",
-        "R Zhang",
-        "S Di",
-        "J Zhu"
+        "Qingzhi Ma",
+        "Hanghui Guo",
+        "Jiaming Li",
+        "Yao Zhao",
+        "Ruiyuan Zhang",
+        "Shimin Di",
+        "Jia Zhu",
+        "Kai Zheng",
+        "Jiajie Xu"
       ],
       "venue": "Preprint 2025",
       "selected": 1,
@@ -270,11 +279,11 @@
     {
       "title": "Reading Between the Timelines: RAG for Answering Diachronic Questions",
       "authors": [
-        "KH Lau",
-        "R Zhang",
+        "Kwun Hang Lau",
+        "Ruiyuan Zhang",
         "Weijie Shi",
-        "X Zhou",
-        "X Cheng"
+        "Xiaofang Zhou",
+        "Xiaojun Cheng"
       ],
       "venue": "Preprint 2025",
       "selected": 1,
@@ -283,16 +292,16 @@
     {
       "title": "Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving",
       "authors": [
-        "C Cao",
-        "M Li",
-        "J Dai",
-        "J Yang",
-        "Z Zhao",
-        "S Zhang",
+        "Chuxue Cao",
+        "Mengze Li",
+        "Juntao Dai",
+        "Jinluan Yang",
+        "Zijian Zhao",
+        "Shengyu Zhang",
         "Weijie Shi",
-        "C Liu",
-        "S Han",
-        "Y Guo"
+        "Chengzhong Liu",
+        "Sirui Han",
+        "Yike Guo"
       ],
       "venue": "EMNLP 2025 (CCF B)",
       "selected": 1,
@@ -301,13 +310,13 @@
     {
       "title": "PIP: Perturbation-based Iterative Pruning for Large Language Models",
       "authors": [
-        "Y Cao",
-        "WJ Xu",
-        "Y Shen",
+        "Yi Cao",
+        "Wei-Jie Xu",
+        "Yucheng Shen",
         "Weijie Shi",
-        "CM Chan",
-        "J Qu",
-        "J Xu"
+        "Chi-Min Chan",
+        "Jianfeng Qu",
+        "Jiajie Xu"
       ],
       "venue": "EMNLP 2025 (CCF B)",
       "selected": 1,
@@ -316,14 +325,14 @@
     {
       "title": "EduEval: A Hierarchical Cognitive Benchmark for Evaluating Large Language Models in Chinese Education",
       "authors": [
-        "G Ma",
-        "J Zhu",
-        "H Guo",
+        "Guoqing Ma",
+        "Jia Zhu",
+        "Hanghui Guo",
         "Weijie Shi",
-        "Y Cui",
-        "J Shen",
-        "Z Li",
-        "Y Liang"
+        "Yue Cui",
+        "Jiawei Shen",
+        "Zilong Li",
+        "Yidan Liang"
       ],
       "venue": "Preprint 2025",
       "selected": 1,
@@ -332,14 +341,14 @@
     {
       "title": "Perception, Understanding and Reasoning: A Multimodal Benchmark for Video Fake News Detection",
       "authors": [
-        "C Yakun",
-        "F Huo",
+        "Cui Yakun",
+        "Fushuo Huo",
         "Weijie Shi",
-        "J Dai",
-        "H Du",
-        "Z Zhu",
-        "S Han",
-        "Y Guo"
+        "Juntao Dai",
+        "Hang Du",
+        "Zhenghao Zhu",
+        "Sirui Han",
+        "Yike Guo"
       ],
       "venue": "Preprint 2025",
       "selected": 1,
@@ -348,13 +357,13 @@
     {
       "title": "Automatic Failure Attribution and Critical Step Prediction Method for Multi-Agent Systems Based on Causal Inference",
       "authors": [
-        "G Ma",
-        "J Zhu",
-        "H Guo",
+        "Guoqing Ma",
+        "Jia Zhu",
+        "Hanghui Guo",
         "Weijie Shi",
-        "J Shen",
-        "J Liu",
-        "Y Liang"
+        "Jiawei Shen",
+        "Jingjiang Liu",
+        "Yidan Liang"
       ],
       "venue": "Preprint 2025",
       "selected": 1,
@@ -363,15 +372,15 @@
     {
       "title": "Measuring Hong Kong Massive Multi-Task Language Understanding",
       "authors": [
-        "C Cao",
-        "Z Zhu",
-        "J Zhu",
-        "G Lu",
-        "S Peng",
-        "J Dai",
+        "Chuxue Cao",
+        "Zhenghao Zhu",
+        "Junqi Zhu",
+        "Guoying Lu",
+        "Siyu Peng",
+        "Juntao Dai",
         "Weijie Shi",
-        "S Han",
-        "Y Guo"
+        "Sirui Han",
+        "Yike Guo"
       ],
       "venue": "Preprint 2025",
       "selected": 1,
