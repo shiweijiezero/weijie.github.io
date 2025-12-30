@@ -86,12 +86,12 @@ function createPublicationElement(publication) {
   // Format authors with highlighting
   let authorsHTML = '';
   publication.authors.forEach((author, index) => {
-    if (author.includes('Author 3')) { // TODO: Highlight specific author
-      authorsHTML += `<span class="highlight-name">${author}</span>`;
+    if (author.includes('Weijie Shi')) {
+      authorsHTML += `<strong>${author}</strong>`;
     } else {
       authorsHTML += author;
     }
-    
+
     if (index < publication.authors.length - 1) {
       authorsHTML += ', ';
     }
