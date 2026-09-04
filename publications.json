@@ -1,6 +1,30 @@
 {
   "publications": [
     {
+      "title": "SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting",
+      "authors": [
+        "Weijie Shi",
+        "Qiang Xu",
+        "Fan Deng",
+        "Yaguang Wu",
+        "Jiarun Liu",
+        "Yehong Xu",
+        "Hao Chen",
+        "Jia Zhu",
+        "Jiajie Xu",
+        "Xiangjun Huang",
+        "Jian Yang",
+        "Xiaofang Zhou"
+      ],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2605.07243",
+        "code": "https://github.com/shiweijiezero/SpecBlock"
+      }
+    },
+    {
       "title": "R³L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification",
       "authors": [
         "Weijie Shi",
@@ -12,7 +36,7 @@
         "Xiaofang Zhou",
         "Yaliang Li"
       ],
-      "venue": "Preprint 2026",
+      "venue": "EMNLP 2026 (CCF B)",
       "selected": 1,
       "award": "",
       "links": {
