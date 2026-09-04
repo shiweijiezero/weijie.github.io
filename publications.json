@@ -40,8 +40,165 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "https://arxiv.org/pdf/2601.03715"
+        "pdf": "https://arxiv.org/pdf/2601.03715",
+        "code": "https://github.com/shiweijiezero/R3L"
       }
+    },
+    {
+      "title": "MEDR: Query-Independent Frame Selection via Multi-Signal Event Modeling and Dynamic Rescoring",
+      "authors": ["Xinlei Pu", "Weijie Shi", "Wen Yang", "Yi Cao", "Hao Chen", "Yuanjun Liu", "Wenwei Ding", "Jia Zhu", "Jiajie Xu"],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2608.15058"}
+    },
+    {
+      "title": "RippleKV: Cross-Layer KV Cache Allocation via Perturbation Propagation",
+      "authors": ["Dongjie Xu", "Kai Qian", "Julius", "Weijie Shi", "Yuxuan Sun", "Minghua Tang", "Fenglei Jin", "Hanchi Dong", "Jiajie Xu"],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2608.08684"}
+    },
+    {
+      "title": "Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA",
+      "authors": ["Hao Chen", "Xing Tang", "Qirui Liu", "Weijie Shi", "Shiwei Li", "Fuyuan Lyu", "Weihong Luo", "Xiku Du", "Xiuqiang He"],
+      "venue": "KDD 2026 (CCF A)",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2605.31064"}
+    },
+    {
+      "title": "DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution",
+      "authors": ["Hanghui Guo", "Weijie Shi", "Zhangze Chen", "Shengxiang Xu", "Yishu Wang", "Yimei Zhang", "Wangze Ni", "Jia Zhu", "Shimin Di"],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2607.26722"}
+    },
+    {
+      "title": "Task Decomposition-Guided Reranking for Adaptive Agent Skill Retrieval",
+      "authors": ["Yanping Chen", "Weijie Shi", "Wen Yang", "Jiajie Xu"],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2607.06283"}
+    },
+    {
+      "title": "ReTRE: Benchmarking LLM Transfer Robustness with Structure-Preserving Variants",
+      "authors": ["ZhongDong Li", "Weijie Shi", "Yue Cui", "Haolun Ma", "Yuanjun Liu", "Jiawei Li", "An Liu", "Jia Zhu", "Jiajie Xu"],
+      "venue": "ACL 2026 (CCF A)",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://aclanthology.org/2026.acl-long.2048.pdf"}
+    },
+    {
+      "title": "RSDA: Restoring Stale Data Affinity via Dynamic Renovation Strategy for Mitigating Data Scarcity",
+      "authors": ["Yidan Liang", "Jia Zhu", "Weijie Shi", "Hanghui Guo", "Yue Cui", "Jiawei Shen", "Guoqing Ma", "Jingjiang Liu", "Qingyu Niu", "Yilin Wang", "Shimin Di", "Jiajie Xu"],
+      "venue": "ACL 2026 (CCF A)",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://aclanthology.org/2026.acl-long.375.pdf"}
+    },
+    {
+      "title": "KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning",
+      "authors": ["Jingjiang Liu", "Jia Zhu", "Hanghui Guo", "Weijie Shi", "Yue Cui", "Xiaokang Jin", "Yilin Wang", "Qingyu Niu", "Jiawei Shen", "Guoqing Ma", "Yidan Liang", "Shimin Di", "Jiajie Xu"],
+      "venue": "ACL 2026 (CCF A)",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://aclanthology.org/2026.acl-long.414.pdf"}
+    },
+    {
+      "title": "ACR: Adaptive Context Refactoring via Context Refactoring Operators for Multi-Turn Dialogue",
+      "authors": ["Jiawei Shen", "Jia Zhu", "Hanghui Guo", "Weijie Shi", "Yue Cui", "Qingyu Niu", "Guoqing Ma", "Jingjiang Liu", "Yidan Liang", "Yilin Wang", "Shimin Di", "Jiajie Xu"],
+      "venue": "ACL 2026 Findings (CCF A)",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://aclanthology.org/2026.findings-acl.155.pdf"}
+    },
+    {
+      "title": "Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning",
+      "authors": ["Yanxi Chen", "Weijie Shi", "Yuexiang Xie", "Boyi Hu", "Yaliang Li", "Bolin Ding", "Jingren Zhou"],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2606.20002", "code": "https://github.com/agentscope-ai/Trinity-RFT/tree/research/cod/examples/research_cod"}
+    },
+    {
+      "title": "TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents",
+      "authors": ["Jiaqi Wang", "Wenhao Zhang", "Weijie Shi", "Yaliang Li", "James Cheng"],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2604.24005", "code": "https://github.com/kokolerk/TCOD"}
+    },
+    {
+      "title": "Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA",
+      "authors": ["Xing Tang", "Hao Chen", "Shiwei Li", "Fuyuan Lyu", "Weijie Shi", "Lingjie Li", "Dugang Liu", "Weihong Luo", "Xiku Du", "Xiuqiang He"],
+      "venue": "The Web Conference 2026 (CCF A)",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2604.05387"}
+    },
+    {
+      "title": "LoopGuard: Breaking Self-Reinforcing Attention Loops via Dynamic KV Cache Intervention",
+      "authors": ["Dongjie Xu", "Hao Wu", "Weijie Shi", "Yue Cui", "Yuanjun Liu", "Jiawei Li", "Haolun Ma", "An Liu", "Jia Zhu", "Jiajie Xu"],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2604.10044"}
+    },
+    {
+      "title": "Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality",
+      "authors": ["Kai Qian", "Weijie Shi", "Jiaqi Wang", "Mengze Li", "Hao Chen", "Yue Cui", "Hanghui Guo", "Ziyi Liu", "Jia Zhu", "Jiajie Xu"],
+      "venue": "Preprint 2026",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2604.09711"}
+    },
+    {
+      "title": "TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models",
+      "authors": ["Yi Cao", "Weijie Shi", "Wei-Jie Xu", "Yucheng Shen", "Yue Cui", "Hanghui Guo", "Shimin Di", "Ziyi Liu", "Jiaming Li", "Alexander Zhou", "Jia Zhu", "Jiajie Xu"],
+      "venue": "AAAI 2026 (CCF A)",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/40264/44225"}
+    },
+    {
+      "title": "TacpAgent: Enhancing Student Engagement in Classroom Exercises Through LLM-Generated Feedback",
+      "authors": ["Wanlu Zhang", "Jia Zhu", "Xi Yang", "Weijie Shi", "Yue Cui", "Xinle Dai", "Jiewen Sun"],
+      "venue": "AAAI 2026 (CCF A)",
+      "selected": 1,
+      "award": ""
+    },
+    {
+      "title": "Active Multi-source Domain Adaptation for Multimodal Fake News Detection",
+      "authors": ["Yanping Chen", "Weijie Shi", "Mengze Li", "Yue Cui", "Jiaming Li", "Ruiyuan Zhang", "Hao Chen", "Hanghui Guo", "Shimin Di", "Ziyi Liu", "Jia Zhu", "Jiajie Xu"],
+      "venue": "AAAI 2026 (CCF A)",
+      "selected": 1,
+      "award": ""
+    },
+    {
+      "title": "Video-Seer: A Hierarchical Scene Selection and Multi-View Analysis Approach for Zero-Shot Video Question Answering",
+      "authors": ["Chenglei Huang", "Jia Zhu", "Zilong Li", "Hanghui Guo", "Jiajun Liu", "Pasquale De Meo", "Weijie Shi"],
+      "venue": "IEEE Transactions on Multimedia 2026",
+      "selected": 1,
+      "award": ""
+    },
+    {
+      "title": "KnowPath: An LLM-Supported Knowledge Graph Construction and Path Finding Framework to Explainable MOOC Recommendations",
+      "authors": ["Jia Zhu", "Zhangze Chen", "Pasquale De Meo", "Jueqi Guan", "Zhongmei Han", "Weijie Shi"],
+      "venue": "ACM Transactions on Information Systems 2026",
+      "selected": 1,
+      "award": ""
+    },
+    {
+      "title": "DynaGen: Unifying Temporal Knowledge Graph Reasoning with Dynamic Subgraphs and Generative Regularization",
+      "authors": ["Jiawei Shen", "Jia Zhu", "Hanghui Guo", "Weijie Shi", "Guoqing Ma", "Yidan Liang", "Jingjiang Liu", "Hao Chen", "Shimin Di"],
+      "venue": "Preprint 2025",
+      "selected": 1,
+      "award": "",
+      "links": {"pdf": "https://arxiv.org/pdf/2512.12669"}
     },
     {
       "title": "DIDS: Domain Impact-aware Data Sampling for Large Language Model Training",
@@ -129,7 +286,7 @@
         "Jiajie Xu",
         "Xiaofang Zhou"
       ],
-      "venue": "Preprint 2025",
+      "venue": "IEEE Transactions on Knowledge and Data Engineering 2026",
       "selected": 1,
       "award": ""
     },
@@ -248,8 +405,8 @@
     {
       "title": "Benchmarking Multi-national Value Alignment for Large Language Models",
       "authors": [
-        "Weijie Shi",
         "Chengyi Ju",
+        "Weijie Shi",
         "Chengzhong Liu",
         "Jiaming Ji",
         "Jipeng Zhang",
@@ -385,15 +542,18 @@
       "title": "Perception, Understanding and Reasoning: A Multimodal Benchmark for Video Fake News Detection",
       "authors": [
         "Cui Yakun",
+        "Peng Qi",
         "Fushuo Huo",
+        "Hang Du",
         "Weijie Shi",
         "Juntao Dai",
-        "Hang Du",
         "Zhenghao Zhu",
-        "Sirui Han",
-        "Yike Guo"
+        "Sirui Han"
       ],
-      "venue": "Preprint 2025",
+      "venue": "ACL 2026 (CCF A)",
+      "links": {
+        "pdf": "https://aclanthology.org/2026.acl-long.2103.pdf"
+      },
       "selected": 1,
       "award": ""
     },
