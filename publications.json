@@ -143,10 +143,17 @@
     {
       "title": "LoopGuard: Breaking Self-Reinforcing Attention Loops via Dynamic KV Cache Intervention",
       "authors": ["Dongjie Xu", "Hao Wu", "Weijie Shi", "Yue Cui", "Yuanjun Liu", "Jiawei Li", "Haolun Ma", "An Liu", "Jia Zhu", "Jiajie Xu"],
-      "venue": "Preprint 2026",
+      "venue": "EMNLP 2026 Findings (CCF B)",
       "selected": 1,
       "award": "",
       "links": {"pdf": "https://arxiv.org/pdf/2604.10044"}
+    },
+    {
+      "title": "ConsistKV: Layer Adaptive KV Cache Compression via Cross Layer Consensus",
+      "authors": ["Dongjie Xu", "Kai Qian", "Weijie Shi", "Fenglei Jin", "Jiajie Xu"],
+      "venue": "EMNLP 2026 Findings (CCF B)",
+      "selected": 1,
+      "award": ""
     },
     {
       "title": "Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality",
@@ -460,19 +467,17 @@
       "title": "E3-Rewrite: Learning to Rewrite SQL for Executability, Equivalence, and Efficiency",
       "authors": [
         "Dongjie Xu",
-        "Yue Cui",
         "Weijie Shi",
+        "Yue Cui",
         "Qingzhi Ma",
-        "Hanghui Guo",
-        "Jiaming Li",
-        "Yao Zhao",
+        "Wenwen Xia",
         "Ruiyuan Zhang",
         "Shimin Di",
         "Jia Zhu",
         "Kai Zheng",
         "Jiajie Xu"
       ],
-      "venue": "Preprint 2025",
+      "venue": "EMNLP 2026 (CCF B)",
       "selected": 1,
       "award": ""
     },
