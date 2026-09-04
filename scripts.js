@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Load publications from JSON file
 function loadPublications() {
-  fetch('publications.json')
+  fetch('publications.json', { cache: 'no-cache' })
     .then(response => {
       if (!response.ok) {
         throw new Error(`Network response was not ok: ${response.status}`);
